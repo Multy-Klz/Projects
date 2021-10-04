@@ -1,0 +1,25 @@
+aside.menu-area {
+    background-color: #050505;
+    box-shadow: 
+    2px 0 10px rgba(0,0,0,0.12)
+    2px 0 15px rgba(0,0,0,0.09);
+}
+
+.menu a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 300;
+    padding: 15px;
+}
+
+.menu a:hover {
+    background: linear-gradient(134deg, #07a7e3 0%, #32dac3 100%);
+}
+
+h1.search {
+    color: #32dac3;
+    padding-top: 10px;
+    font-size: 20px;
+    text-align: center;
+}
