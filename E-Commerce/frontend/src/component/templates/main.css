@@ -1,0 +1,15 @@
+main > div {
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #0004;
+}
+
+div.prop {
+
+    margin: 15px;
+    padding: 30px;
+}
+
+main.content {
+    display: grid;
+    flex-direction: column;
+}
