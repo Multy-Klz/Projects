@@ -1,0 +1,9 @@
+div.products {
+
+    width: 150px;
+    margin: 10px;
+}
+
+div.productData p{
+    margin: 0;
+}
