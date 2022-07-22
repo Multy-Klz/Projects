@@ -1,1 +1,0 @@
-# FrontEnd e-commerce project
