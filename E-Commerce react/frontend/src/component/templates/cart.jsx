@@ -1,7 +1,7 @@
 import './cart.css'
 import React from 'react'
 import cart from '../../assets/cart-icon.svg'
-import { Badge, Container, Nav, Dropdown } from 'react-bootstrap'
+import { Badge,  Dropdown } from 'react-bootstrap'
 
 export default props =>
 
