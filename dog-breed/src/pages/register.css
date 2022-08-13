@@ -1,0 +1,10 @@
+div .form{
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    border-radius: 15px;
+    width: 600px;
+    padding: 20px;
+    font-size: 20px;
+}

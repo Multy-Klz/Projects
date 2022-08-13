@@ -1,0 +1,38 @@
+div .flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imgContainer{
+    display: absolute;
+    
+    width: 300px;
+    height: 450px;
+     margin: 10px; 
+    overflow: inherit;
+}
+
+img{
+    object-fit: cover;
+    width: inherit;
+    height: inherit;
+        border-radius: 4px;
+}
+
+#breedImg:hover {opacity: 0.7;}
+
+.imgBox{
+    width: max-content;
+   align-self: center;
+}
+
+
+
+.dialog-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
